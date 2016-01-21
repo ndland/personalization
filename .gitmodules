@@ -13,3 +13,6 @@
 [submodule "Alcatraz"]
 	path = Alcatraz
 	url = git@github.com:alcatraz/Alcatraz.git
+[submodule "atom-one-dark-terminal"]
+	path = atom-one-dark-terminal
+	url = git@github.com:nathanbuchar/atom-one-dark-terminal.git
