@@ -10,3 +10,6 @@
 [submodule "solarized"]
 	path = solarized
 	url = git@github.com:altercation/solarized.git
+[submodule "Alcatraz"]
+	path = Alcatraz
+	url = git@github.com:alcatraz/Alcatraz.git
