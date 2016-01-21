@@ -1,0 +1,12 @@
+[submodule "dircolors-solarized"]
+	path = dircolors-solarized
+	url = git@github.com:seebi/dircolors-solarized.git
+[submodule "zsh-git-prompt"]
+	path = zsh-git-prompt
+	url = git@github.com:olivierverdier/zsh-git-prompt.git
+[submodule "source-code-pro"]
+	path = source-code-pro
+	url = git@github.com:adobe-fonts/source-code-pro.git
+[submodule "solarized"]
+	path = solarized
+	url = git@github.com:altercation/solarized.git
