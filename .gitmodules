@@ -28,3 +28,6 @@
 [submodule "base16-idea"]
 	path = base16-idea
 	url = git@github.com:adilosa/base16-idea.git
+[submodule "base16-sequel-pro"]
+	path = base16-sequel-pro
+	url = https://github.com/bbrks/base16-sequel-pro.git
