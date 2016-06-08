@@ -46,3 +46,6 @@
 [submodule "lambda-mod-zsh-theme"]
 	path = lambda-mod-zsh-theme
 	url = https://github.com/halfo/lambda-mod-zsh-theme.git
+[submodule "scm_breeze"]
+	path = scm_breeze
+	url = https://github.com/ndbroadbent/scm_breeze.git
