@@ -43,3 +43,6 @@
 [submodule "dracula-theme"]
 	path = dracula-theme
 	url = https://github.com/zenorocha/dracula-theme/
+[submodule "lambda-mod-zsh-theme"]
+	path = lambda-mod-zsh-theme
+	url = https://github.com/halfo/lambda-mod-zsh-theme.git
