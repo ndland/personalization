@@ -40,3 +40,6 @@
 [submodule "nerd-fonts"]
 	path = nerd-fonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
+[submodule "dracula-theme"]
+	path = dracula-theme
+	url = https://github.com/zenorocha/dracula-theme/
