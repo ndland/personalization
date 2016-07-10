@@ -1,18 +1,9 @@
 [submodule "dircolors-solarized"]
 	path = dircolors-solarized
 	url = git@github.com:seebi/dircolors-solarized.git
-[submodule "zsh-git-prompt"]
-	path = zsh-git-prompt
-	url = git@github.com:olivierverdier/zsh-git-prompt.git
-[submodule "source-code-pro"]
-	path = source-code-pro
-	url = git@github.com:adobe-fonts/source-code-pro.git
 [submodule "solarized"]
 	path = solarized
 	url = git@github.com:altercation/solarized.git
-[submodule "Alcatraz"]
-	path = Alcatraz
-	url = git@github.com:alcatraz/Alcatraz.git
 [submodule "atom-one-dark-terminal"]
 	path = atom-one-dark-terminal
 	url = git@github.com:nathanbuchar/atom-one-dark-terminal.git
@@ -40,12 +31,24 @@
 [submodule "nerd-fonts"]
 	path = nerd-fonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
-[submodule "dracula-theme"]
-	path = dracula-theme
-	url = https://github.com/zenorocha/dracula-theme/
-[submodule "lambda-mod-zsh-theme"]
-	path = lambda-mod-zsh-theme
-	url = https://github.com/halfo/lambda-mod-zsh-theme.git
 [submodule "scm_breeze"]
 	path = scm_breeze
 	url = https://github.com/ndbroadbent/scm_breeze.git
+[submodule "lambda-mod-zsh-theme"]
+	path = lambda-mod-zsh-theme
+	url = https://github.com/halfo/lambda-mod-zsh-theme.git
+[submodule "dracula-theme/iterm"]
+	path = dracula-theme/iterm
+	url = https://github.com/dracula/iterm.git
+[submodule "zsh-git-prompt"]
+	path = zsh-git-prompt
+	url = https://github.com/olivierverdier/zsh-git-prompt.git
+[submodule "dracula-theme/alfred"]
+	path = dracula-theme/alfred
+	url = https://github.com/dracula/alfred
+[submodule "dracula-theme/sequel-pro"]
+	path = dracula-theme/sequel-pro
+	url = https://github.com/dracula/sequel-pro.git
+[submodule "source-code-pro"]
+	path = source-code-pro
+	url = https://github.com/adobe-fonts/source-code-pro.git
