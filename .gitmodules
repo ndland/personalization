@@ -4,9 +4,6 @@
 [submodule "solarized"]
 	path = solarized
 	url = git@github.com:altercation/solarized.git
-[submodule "atom-one-dark-terminal"]
-	path = atom-one-dark-terminal
-	url = git@github.com:nathanbuchar/atom-one-dark-terminal.git
 [submodule "tomorrow-theme"]
 	path = tomorrow-theme
 	url = git@github.com:chriskempson/tomorrow-theme.git
